@@ -1,5 +1,5 @@
 import string
-import re
+import re   # regular expression library
 
 def text_analyzer(lst = None):
     """Counts the number of upper, lower, punctuation, spaces"""
@@ -17,5 +17,5 @@ def text_analyzer(lst = None):
     print('- {} punctuation marks'.format(pun))
     print('- {} spaces'.format(spa))
 
-
-# NOT FINISHED!!!
+# findall = returns a list containing all matches
+# print(string.punctuation)
