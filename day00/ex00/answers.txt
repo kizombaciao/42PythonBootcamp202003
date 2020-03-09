@@ -1,0 +1,11 @@
+1. pip list
+
+2. pip freeze
+
+3. pip show numpy
+or pip show --verbose numpy
+
+4. pip search tesseract
+# The Python Package Index, abbreviated as PyPI and also known as the Cheese Shop, is the official third-party software repository for Python.
+
+5. pip freeze > requirements.txt
